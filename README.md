@@ -78,19 +78,25 @@ Step 2: User Interaction
 3. Withdraw Money
 4. View Account Details
 5. Exit
-Enter your choice: 1
 
+
+
+Enter your choice: 1
 
 🔹 User Inputs:
 
-Enter Account Holder Name: Suraj
-Enter Account Number: 101
+Enter Account Holder  =  Name: Suraj  |
+Enter Account Number: 101  |
 Enter Initial Balance: 1000
 
 ✅ Output:
 
 Account created successfully!
 
+
+---
+
+Enter your choice: 2
 
 💰 Deposit Money
 
@@ -103,6 +109,9 @@ Enter amount to deposit: 500
 
 Deposited: $500 | New Balance: $1500
 
+---
+
+Enter your choice: 3
 
 💳 Withdraw Money
 
@@ -114,6 +123,11 @@ Enter amount to withdraw: 300
 
 Withdrawn: $300 | Remaining Balance: $1200
 
+---
+
+Enter your choice: 4
+
+
 🔍 Check Account Details
 
 Enter your choice: 4
@@ -123,9 +137,13 @@ Enter Account Number: 101
 
 Account Holder: John | Account Number: 101 | Balance: $1200
 
+---
+
+Enter your choice: 1
+
 🚪 Exit the Program
 
-Enter your choice: 5
+
 
 ✅ Output:
 
